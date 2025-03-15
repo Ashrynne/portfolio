@@ -1,23 +1,18 @@
 # QA Portfolio Showcase
 ### About me:
-I am a self-learner and enjoy software, both using, as well as breaking it. Even though I am not new to IT in general, my dream is to establish myself in the QA industry and work in a team of passionate people, from whom I can learn and improve myself each day. I spend a lot of time with all kinds of software, usually open-source from different repositories on Linux, but also on Github, finding what suits my needs. I am good at adapting to different situations and conditions. With this portfolio I want to show the bulk of what I know so far, that is relevant for a position of a Junior QA Engineer. It is a constant work in progress and will expand, as I gain new knowledge, both personal and corporate. I may be lacking experience working at a tech company as of right now, but I need someone to give me an opportunity and a problem to solve.
-    The portfolio, specifically sections that have to do with test cases, bug reports and so on, will be largely based on software that I created specifically for testing.
-## Skills Overview(click on a skill that interests you to see examples of my work, click on the header of the section that opened to go back to the list)
-### Project management
-* [Jira](#jira)
-* [Trello](#trello)
-* [Slack](#slack)
-* [Git](#git)
-* [GitHub(GitLab)](#githubgitlab)
-###  Cycles
-* Dev cycle
-* Testing cycle
-###  Dev models
-* Agile
-* Waterfall
-### Dev workloads
-* Scrum
-* Kanban
+<p>I enjoy software, usually open-source, from all kinds of repositories, both using, as well as breaking it. 
+Which is why my dream is to <mark style="background-color:pink">‎ establish myself in the QA industry 
+</mark> and work in a team of passionate people, from whom I can learn and improve myself each day.</p><p>With this portfolio I want to show the bulk of what I know so far, 
+that is relevant for a position of a <mark style="background-color:pink">‎ Junior QA Engineer. 
+‎</mark> </p><p>It is a constant work in progress and will expand, as I gain new knowledge, both personal and corporate. <mark style="background-color:pink">‎ 
+I ask a lot of questions, learn, consider myself to be a problem solver and a person that simply gets things done. ‎</p>
+
+### Skills Overview
+<mark style="background-color:pink">‎ click on a skill that interests you to see examples of my work, 
+click on the header of the section that opened to go back to the list ‎ </mark>
+
+
+## Practical knowledge
 ### Documentation:
 * [Test plan](#test-plan)
 * [Test cases](#test-cases)
@@ -29,9 +24,6 @@ I am a self-learner and enjoy software, both using, as well as breaking it. Even
 * [Dev Tools](#dev-tools)
 * [Load testing](#charlesload-testing)
 * [Bug reports](#bug-reports)
-### Mobile application testing
-* [Emulators](#emulators)
-* [Android Studio](#android-studio)
 ### API Testing
 * [REST API](#rest-api)
 * [JSON](#json)
@@ -39,6 +31,26 @@ I am a self-learner and enjoy software, both using, as well as breaking it. Even
 ### DB Testing
 * [Console](#console)
 * [SQL(SQLite, MySQL)](#sqlsqlite-mysql)
+
+## Theoretical knowledge
+### Project management
+* [Jira](#jira)
+* [Trello](#trello)
+* [Slack](#slack)
+* [Git](#git)
+* [GitHub(GitLab)](#githubgitlab)
+### Mobile application testing
+* [Emulators](#emulators)
+* [Android Studio](#android-studio)
+###  Cycles
+* Dev cycle
+* Testing cycle
+###  Dev models
+* Agile
+* Waterfall
+### Dev workloads
+* Scrum
+* Kanban
 
 <hr style="border: none; height: 7px; background-color: grey;">
 
@@ -78,6 +90,8 @@ I am a self-learner and enjoy software, both using, as well as breaking it. Even
 ## DB Testing
 ### [Console](#db-testing)
 ### [SQL(SQLite, MySQL)](#db-testing)
+
+
 <hr style="border: none; height: 7px; background-color: grey;">
 
  :top:
