@@ -4,7 +4,7 @@
 Which is why my dream is to <mark style="background-color:pink">‎ establish myself in the QA industry 
 </mark> and work in a team of passionate people, from whom I can learn and improve myself each day.</p><p>With this portfolio I want to show the bulk of what I know so far, 
 that is relevant for a position of a <mark style="background-color:pink">‎ Junior QA Engineer. 
-‎</mark> </p><p>It is a constant work in progress and will expand, as I gain new knowledge, both personal and corporate. <span style="background-color:pink">‎ 
+‎</mark> </p><p>It is a constant work in progress and will expand, as I gain new knowledge, both personal and corporate. <span style="color:pink">‎ 
 I ask a lot of questions, learn, consider myself to be a problem solver and a person that simply gets things done. ‎</span></p>
 
 ### Skills Overview
