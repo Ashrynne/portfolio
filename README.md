@@ -1,24 +1,21 @@
 # QA Portfolio Showcase
 ### About me:
-<p>I enjoy software, usually open-source, from all kinds of repositories, both using, as well as breaking it. 
-Which is why my dream is to <mark style="background-color:pink">‎ establish myself in the QA industry 
-</mark> and work in a team of passionate people, from whom I can learn and improve myself each day.</p><p>With this portfolio I want to show the bulk of what I know so far, 
-that is relevant for a position of a <mark style="background-color:pink">‎ Junior QA Engineer. 
-‎</mark> </p><p>It is a constant work in progress and will expand, as I gain new knowledge, both personal and corporate. <b><span style="color:pink">‎ 
-I ask a lot of questions, learn, consider myself to be a problem solver and a person that simply gets things done. ‎</span></b></p>
+Which is why my dream is to <b><u>establish myself in the QA industry
+</u></b> and work in a team of passionate people, from whom I can learn and improve myself each day.</p><p>With this portfolio I want to show the bulk of what I know so far,
+that is relevant for a position of a <b><u>Junior QA Engineer.</u></b></p><p>It is a constant work in progress and will expand, as I gain new knowledge, both personal and corporate. <b><u>I ask a lot of questions, learn, consider myself to be a problem solver and a person that simply gets things done.</b></u></p>
 
 ### Skills Overview
-<mark style="background-color:pink">‎ click on a skill that interests you to see examples of my work, 
-click on the header of the section that opened to go back to the list ‎ </mark>
+> <b>click on a skill that interests you to see examples of my work, 
+click on the header of the section that opened to go back to the list</b>
 
 
 ## Practical knowledge
 ### Documentation:
-* [Test plan](#test-plan)
-* [Test cases](#test-cases)
-* [Bug reports](#bug-reports)
-* [Check lists](#check-lists)
-### Web application testing
+#[![Test plans](https://img.shields.io/badge/test_plans-purple?style=for-the-badge)](#test-plan)
+[![Test cases](https://img.shields.io/badge/test_cases-blue?style=for-the-badge)](#test-cases)
+[![Bug reports](https://img.shields.io/badge/bug_reports-orange?style=for-the-badge)](#bug-reports)
+[![Checklists](https://img.shields.io/badge/check_Lists-teal?style=for-the-badge)](#check-lists)
+### Web application testing:
 * [UI](#ui)
 * [Forms](#forms)
 * [Dev Tools](#dev-tools)
