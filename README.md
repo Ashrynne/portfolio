@@ -1,5 +1,6 @@
 # QA Portfolio Showcase
 ### About me:
+<p>I enjoy software, usually open-source, from all kinds of repositories, both using, as well as breaking it.</p> 
 Which is why my dream is to <b><u>establish myself in the QA industry
 </u></b> and work in a team of passionate people, from whom I can learn and improve myself each day.</p><p>With this portfolio I want to show the bulk of what I know so far,
 that is relevant for a position of a <b><u>Junior QA Engineer.</u></b></p><p>It is a constant work in progress and will expand, as I gain new knowledge, both personal and corporate. <b><u>I ask a lot of questions, learn, consider myself to be a problem solver and a person that simply gets things done.</b></u></p>
