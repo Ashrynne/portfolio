@@ -12,37 +12,33 @@ click on the header of the section that opened to go back to the list</b>
 
 ## Practical knowledge
 ### Documentation:
-[![Test plans](https://img.shields.io/badge/test_plans-purple?style=for-the-badge)](#test-plan)
-
-[![Test cases](https://img.shields.io/badge/test_cases-blue?style=for-the-badge)](#test-cases)
-
-[![Bug reports](https://img.shields.io/badge/bug_reports-orange?style=for-the-badge)](#bug-reports)
-
-[![Checklists](https://img.shields.io/badge/check_Lists-teal?style=for-the-badge)](#check-lists)
+[![Test plans](https://img.shields.io/badge/test_plans-6B5B95?style=for-the-badge)](#test-plan) &nbsp;
+[![Test cases](https://img.shields.io/badge/test_cases-4A90E2?style=for-the-badge)](#test-cases) &nbsp;
+[![Bug reports](https://img.shields.io/badge/bug_reports-E27D60?style=for-the-badge)](#bug-reports) &nbsp;
+[![Checklists](https://img.shields.io/badge/check_Lists-3E885B?style=for-the-badge)](#check-lists) &nbsp;
 ### Web application testing:
-* [UI](#ui)
-* [Forms](#forms)
-* [Dev Tools](#dev-tools)
-* [Load testing](#charlesload-testing)
-* [Bug reports](#bug-reports)
+[![UI](https://img.shields.io/badge/UI-5D4157?style=for-the-badge)](#ui) &nbsp;
+[![Forms](https://img.shields.io/badge/forms-C94C4C?style=for-the-badge)](#forms) &nbsp;
+[![Dev Tools](https://img.shields.io/badge/dev_tools-D9B08C?style=for-the-badge)](#dev-tools) &nbsp;
+[![Load testing](https://img.shields.io/badge/load_testing-B5A58D?style=for-the-badge)](#load-testing) &nbsp;
 ### API Testing
-* [REST API](#rest-api)
-* [JSON](#json)
-* [Postman](#postman)
-### DB Testing
-* [Console](#console)
-* [SQL(SQLite, MySQL)](#sqlsqlite-mysql)
+[![REST API](https://img.shields.io/badge/rest_api-8D8741?style=for-the-badge)](#rest-api) &nbsp;
+[![JSON](https://img.shields.io/badge/json-E8A87C?style=for-the-badge)](#json) &nbsp;
+[![Postman](https://img.shields.io/badge/postman-C38D9E?style=for-the-badge)](#postman) &nbsp;
+### Mobile application testing
+[![Emulators](https://img.shields.io/badge/emulators-D4A017?style=for-the-badge)](#emulators) &nbsp;
+[![Android Studio](https://img.shields.io/badge/android_studio-556B2F?style=for-the-badge)](#android-studio) &nbsp;
+## DB Testing
+[![Console](https://img.shields.io/badge/console-955251?style=for-the-badge)](#console) &nbsp;
+[![SQL(SQLite, MYSQL](https://img.shields.io/badge/sql,sqlite,mysql-616247?style=for-the-badge)](#sqlsqlite-mysql)
 
 ## Theoretical knowledge
 ### Project management
-* [Jira](#jira)
-* [Trello](#trello)
-* [Slack](#slack)
-* [Git](#git)
-* [GitHub(GitLab)](#githubgitlab)
-### Mobile application testing
-* [Emulators](#emulators)
-* [Android Studio](#android-studio)
+* <abbr title="definition">Jira</abbr>
+* Trello
+* Slack
+* Git
+* GitHub(GitLab)
 ###  Cycles
 * Dev cycle
 * Testing cycle
@@ -79,7 +75,7 @@ click on the header of the section that opened to go back to the list</b>
 ### [UI](#web-application-testing)
 ### [Forms](#web-application-testing)
 ### [Dev Tools](#web-application-testing)
-### [Charles(load testing)](#web-application-testing)
+### [Load testing](#web-application-testing)
 ### [Bug reports](#web-application-testing)
 ## Mobile application testing
 ### [Emulators](#mobile-application-testing)
