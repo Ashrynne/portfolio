@@ -34,7 +34,7 @@ click on the header of the section that opened to go back to the list</b>
 
 ## Theoretical knowledge
 ### Project management
-* <abbr title="definition">Jira</abbr>
+* <span title="definition">Jira</span>
 * Trello
 * Slack
 * Git
