@@ -1,4 +1,4 @@
-# QA Portfolio Showcase
+# [QA Portfolio Showcase](#qa-portfolio-showcase)
 ### About me:
 <p>I enjoy software, usually open-source, from all kinds of repositories, both using, as well as breaking it.</p> 
 <p>Which is why my dream is to <b><u>establish myself in the QA industry
@@ -10,7 +10,7 @@ that is relevant for a position of a <b><u>Junior QA Engineer.</u></b></p><p>It 
 click on the header of the section that opened to go back to the list</b>
 
 
-## Practical knowledge
+## 1. Practical knowledge
 ### Documentation:
 [![Test plans](https://img.shields.io/badge/test_plans-6B5B95?style=for-the-badge)](#test-plan) &nbsp;
 [![Test cases](https://img.shields.io/badge/test_cases-4A90E2?style=for-the-badge)](#test-cases) &nbsp;
@@ -28,44 +28,29 @@ click on the header of the section that opened to go back to the list</b>
 ### Mobile application testing
 [![Emulators](https://img.shields.io/badge/emulators-D4A017?style=for-the-badge)](#emulators) &nbsp;
 [![Android Studio](https://img.shields.io/badge/android_studio-556B2F?style=for-the-badge)](#android-studio) &nbsp;
-## DB Testing
+### DB Testing
 [![Console](https://img.shields.io/badge/console-955251?style=for-the-badge)](#console) &nbsp;
-[![SQL(SQLite, MYSQL](https://img.shields.io/badge/sql,sqlite,mysql-616247?style=for-the-badge)](#sqlsqlite-mysql)
+[![SQL](https://img.shields.io/badge/sql-616247?style=for-the-badge)](#sql)
 
-## Theoretical knowledge
+## 2. Theoretical knowledge
 ### Project management
 * <span title="definition">Jira</span>
-* Trello
-* Slack
-* Git
-* GitHub(GitLab)
+* <span title="definition">Trello</span>
+* <span title="definition">Slack</span>
+* <span title="definition">Git</span>
+* <span title="definition">Github(Gitlab)</span>
 ###  Cycles
-* Dev cycle
-* Testing cycle
+* <span title="definition">Dev cycle</span>
+* <span title="definition">Testing cycle</span>
 ###  Dev models
-* Agile
-* Waterfall
+* <span title="definition">Agile</span>
+* <span title="definition">Waterfall</span>
 ### Dev workloads
-* Scrum
-* Kanban
+* <span title="definition">Scrum</span>
+* <span title="definition">Kanban</span>
 
 <hr style="border: none; height: 7px; background-color: grey;">
 
-# Project management
-### [Jira](#project-management)
-### [Trello](#project-management)
-### [Slack](#project-management)
-### [Git](#project-management)
-### [GitHub(GitLab)](#project-management)
-##  Cycles
-### Dev cycle
-### Testing cycle
-##  Dev models
-### Agile
-### Waterfall
-## Dev workloads
-### Scrum
-### Kanban
 ## Documentation:
 ### [Test plan](#documentation)
 ### [Test cases](#documentation)
@@ -77,18 +62,15 @@ click on the header of the section that opened to go back to the list</b>
 ### [Dev Tools](#web-application-testing)
 ### [Load testing](#web-application-testing)
 ### [Bug reports](#web-application-testing)
-## Mobile application testing
-### [Emulators](#mobile-application-testing)
-### [Android Studio](#mobile-application-testing)
 ## API Testing
 ### [REST API](#api-testing)
 ### [JSON](#api-testing)
 ### [Postman](#api-testing)
+## Mobile application testing
+### [Emulators](#mobile-application-testing)
+### [Android Studio](#mobile-application-testing)
 ## DB Testing
 ### [Console](#db-testing)
-### [SQL(SQLite, MySQL)](#db-testing)
+### [SQL](#db-testing)
 
-
-<hr style="border: none; height: 7px; background-color: grey;">
-
- :top:
+[![TOP](https://img.shields.io/badge/back_to_the_beginning-crimson?style=for-the-badge)](#qa-portfolio-showcase)
